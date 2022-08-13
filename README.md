@@ -1,16 +1,13 @@
-### Hi there 👋
+### Показываю и рассказываю, кто я и что я.
 
-<!--
-**Kealfeyne/Kealfeyne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Проекты
 
-Here are some ideas to get you started:
+- Анализ киберспортивных матчей по дисциплине CS:GO
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Хакатоны
+
+
+
+## Контесты
+
+- Codeforces contests
