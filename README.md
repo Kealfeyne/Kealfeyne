@@ -1,4 +1,4 @@
-# Показываю и рассказываю, кто я и что я.
+# Рассказываю и показываю, кто я и что я
 
 ## Проекты
 
@@ -8,9 +8,12 @@
 Обучающий проект от МИФИ и Samsung по основам классического машинного обучения.
 
 ## Хакатоны
-- [Hackathon-BestHack](https://github.com/PunkButterfly/Hackathon-BestHack)  
 
-- [Hackathon-HackTheCart](https://github.com/PunkButterfly/Hackathon-HackTheCart)
+- [Hackathon-BestHack](https://github.com/PunkButterfly/Hackathon-BestHack)  
+Предсказание состояния пациента по результатам его анализов.
+
+- [Hackathon-HackTheCart](https://github.com/PunkButterfly/Hackathon-HackTheCart)  
+Создание рекомендательной системы для онлайн-магазина "Лента".
 
 ## Контесты
 
