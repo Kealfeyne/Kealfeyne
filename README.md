@@ -1,5 +1,10 @@
 # Рассказываю и показываю, кто я и что я
 
+## Социальные ресурсы
+
+- [Stepik](https://stepik.org/users/190887071)
+- [Kaggle](https://www.kaggle.com/kealfeyne/competitions?tab=active)
+ 
 ## Проекты
 
 - [CSGO_Statistics](https://github.com/Kealfeyne/CSGO_Statistics)  
