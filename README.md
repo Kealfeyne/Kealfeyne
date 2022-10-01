@@ -33,6 +33,7 @@
 
 ## :crossed_swords: Hackathons
 <p align="center">
+  <a href="https://github.com/PunkButterfly/Hackathon-Skolkovo"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=PunkButterfly&repo=Hackathon-Skolkovo&theme=vue-dark&bg_color=1F222E&title_color=61d9fa&hide_border=true&icon_color=ffffff&show_icons=true"></a>
   <a href="https://github.com/PunkButterfly/Hackathon-BestHack"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=PunkButterfly&repo=Hackathon-BestHack&theme=vue-dark&bg_color=1F222E&title_color=61d9fa&hide_border=true&icon_color=ffffff&show_icons=true"></a>
   <a href="https://github.com/PunkButterfly/Hackathon-HackTheCart"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=PunkButterfly&repo=Hackathon-HackTheCart&theme=vue-dark&bg_color=1F222E&title_color=61d9fa&hide_border=true&icon_color=ffffff&show_icons=true"></a>
 </p>
