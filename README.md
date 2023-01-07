@@ -4,7 +4,7 @@
 
 
 :monkey: Aspiring artificial intelligence researcher.  
-:open_book: Student of Saint-Petersburg State University and Big Data Academy MADE.  
+:open_book: Student of Saint-Petersburg State University.  
 :game_die: Participant of hackathons on data analysis as teammate [PunkButterfly](https://github.com/PunkButterfly).
 
 
