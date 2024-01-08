@@ -3,8 +3,8 @@
 </p>
 
 
-:monkey: Aspiring artificial intelligence researcher.  
-:open_book: Student of Saint-Petersburg State University.  
+:bar_chart: BA and MLe.  
+:mortar_board: Bachelor`s degree at Saint-Petersburg State University.  
 :game_die: Participant of hackathons on data analysis as teammate [PunkButterfly](https://github.com/PunkButterfly).
 
 
@@ -26,13 +26,15 @@
  
 ## :desktop_computer: Projects
 <p align="center">
+ <a href="https://github.com/Kealfeyne/BertFineTuning"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Kealfeyne&repo=BertFineTuning&theme=react&bg_color=1F222E&title_color=61d9fa&hide_border=true&icon_color=ffffff&show_icons=true"></a>
   <a href="https://github.com/Kealfeyne/CSGO_Statistics"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Kealfeyne&repo=CSGO_Statistics&theme=react&bg_color=1F222E&title_color=61d9fa&hide_border=true&icon_color=ffffff&show_icons=true"></a>
-  <a href="https://github.com/Kealfeyne/Samsung_Bootcamp_Classic_ML"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Kealfeyne&repo=Samsung_Bootcamp_Classic_ML&theme=vue-dark&bg_color=1F222E&title_color=61d9fa&hide_border=true&icon_color=ffffff&show_icons=true"></a>
+  <a href="https://github.com/Kealfeyne/Masters_of_Arts"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Kealfeyne&repo=Masters_of_Arts&theme=vue-dark&bg_color=1F222E&title_color=61d9fa&hide_border=true&icon_color=ffffff&show_icons=true"></a>
 </p>
 
 
 ## :crossed_swords: Hackathons
 <p align="center">
+  <a href="https://github.com/PunkButterfly/Hackathon-LeadersOfDigitalSaintP"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=PunkButterfly&repo=Hackathon-LeadersOfDigitalSaintP&theme=vue-dark&bg_color=1F222E&title_color=61d9fa&hide_border=true&icon_color=ffffff&show_icons=true"></a>
  <a href="https://github.com/PunkButterfly/Hackathon-MarkingHack"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=PunkButterfly&repo=Hackathon-MarkingHack&theme=vue-dark&bg_color=1F222E&title_color=61d9fa&hide_border=true&icon_color=ffffff&show_icons=true"></a>
  <a href="https://github.com/PunkButterfly/Hackathon-XmasHack"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=PunkButterfly&repo=Hackathon-XmasHack&theme=vue-dark&bg_color=1F222E&title_color=61d9fa&hide_border=true&icon_color=ffffff&show_icons=true"></a>
   <a href="https://github.com/PunkButterfly/Hackathon-Skolkovo"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=PunkButterfly&repo=Hackathon-Skolkovo&theme=vue-dark&bg_color=1F222E&title_color=61d9fa&hide_border=true&icon_color=ffffff&show_icons=true"></a>
@@ -41,8 +43,9 @@
   <a href="https://github.com/PunkButterfly/Hackathon-HackTheCart"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=PunkButterfly&repo=Hackathon-HackTheCart&theme=vue-dark&bg_color=1F222E&title_color=61d9fa&hide_border=true&icon_color=ffffff&show_icons=true"></a>
 </p>
 
-
+<!---
 ## :dagger: Contests
 <p align="center">
   <a href="https://github.com/Kealfeyne/Programming_Contests"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Kealfeyne&repo=Programming_Contests&theme=vue-dark&bg_color=1F222E&title_color=61d9fa&hide_border=true&icon_color=ffffff&show_icons=true"></a>
 </p>
+-->
