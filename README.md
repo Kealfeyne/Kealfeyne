@@ -3,7 +3,7 @@
 </p>
 
 
-:bar_chart: BA and MLe.  
+:bar_chart: DA and MLe.  
 :mortar_board: Bachelor`s degree at Saint-Petersburg State University.  
 :game_die: Participant of hackathons on data analysis as teammate [PunkButterfly](https://github.com/PunkButterfly).
 
