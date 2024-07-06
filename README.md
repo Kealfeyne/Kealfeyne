@@ -27,7 +27,7 @@
 ## :desktop_computer: Projects
 <p align="center">
  <a href="https://github.com/Kealfeyne/BertFineTuning"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Kealfeyne&repo=BertFineTuning&theme=react&bg_color=1F222E&title_color=61d9fa&hide_border=true&icon_color=ffffff&show_icons=true"></a>
-  <a href="https://github.com/Kealfeyne/CSGO_Statistics"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Kealfeyne&repo=CSGO_Statistics&theme=react&bg_color=1F222E&title_color=61d9fa&hide_border=true&icon_color=ffffff&show_icons=true"></a>
+  <a href="https://github.com/Kealfeyne/Project-CSGO-Forecasting"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Kealfeyne&repo=Project-CSGO-Forecasting&theme=react&bg_color=1F222E&title_color=61d9fa&hide_border=true&icon_color=ffffff&show_icons=true"></a>
   <a href="https://github.com/Kealfeyne/Masters_of_Arts"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Kealfeyne&repo=Masters_of_Arts&theme=vue-dark&bg_color=1F222E&title_color=61d9fa&hide_border=true&icon_color=ffffff&show_icons=true"></a>
 </p>
 
